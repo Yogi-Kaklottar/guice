@@ -1,4 +1,4 @@
-package com.main.java;
+package com.main.providerBinding;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Guice;
